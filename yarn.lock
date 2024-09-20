@@ -5673,12 +5673,22 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-image-picker@^7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-7.1.2.tgz#383849d1953caf4578874a1f5e5dd11c737bd5cd"
+  integrity sha512-b5y5nP60RIPxlAXlptn2QwlIuZWCUDWa/YPUVjgHc0Ih60mRiOg1PSzf0IjHSLeOZShCpirpvSPGnDExIpTRUg==
+
 react-native-imglysdk@3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/react-native-imglysdk/-/react-native-imglysdk-3.2.0.tgz#82dafe6c3655d974cfbb332238102a0cc0285cf8"
   integrity sha512-QIxo/DYSJUOyyU2y8wopO1lCp5Vn0WznE1Dg0/bFf3zSyQrSduv0rNZ/I3YxwiwEcIWUJKLQ1GIolftPCZCjwQ==
   dependencies:
     "@expo/config-plugins" "^7.2.0"
+
+react-native-permissions@^4.1.5:
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/react-native-permissions/-/react-native-permissions-4.1.5.tgz#db4d1ddbf076570043f4fd4168f54bb6020aec92"
+  integrity sha512-r6VMRacASmtRHS+GZ+5HQCp9p9kiE+UU9magHOZCXZLTJitdTuVHWZRrb4v4oqZGU+zAp3mZhTQftuMMv+WLUg==
 
 react-native-photoeditorsdk@^3.2.0:
   version "3.2.0"
